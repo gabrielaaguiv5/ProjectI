@@ -1,3 +1,6 @@
+# This is the requirements file for the ML Project
+# Starting up with the libraries needed for the EDA
+
 numpy
 pandas
 matplotlib
