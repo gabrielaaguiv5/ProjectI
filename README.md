@@ -3,7 +3,7 @@ Proyecto de ML para módulo "Proyecto I"
 
 ## Descripción del Proyecto
 
-El presente proyecto analiza la base de datos "Travel Review Ratings" del repositorio UC Irvine, con el objetivo que generar un modelo que permita predecir y recomendar atracciones turísticas según ciertos intereses, lo cual es útil para programas de generación automática de 
+El presente proyecto analiza la base de datos "Travel Review Ratings" del repositorio de UC Irvine, con el objetivo de desarrollar un modelo capaz de predecir y recomendar atracciones turísticas en función de ciertos intereses del usuario. Esta herramienta resulta especialmente útil para programas de generación automática de itinerarios de viaje.
 
 ## Tabla de Contenidos
 
